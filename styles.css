@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: beige;
+}
+
+h1 {
+    text-align: center;
+}
+
+.blog-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.blog {
+    width: 400px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+ol {
+    list-style-type: decimal;
+}
